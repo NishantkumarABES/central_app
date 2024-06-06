@@ -41,7 +41,7 @@ nav {
     color: #007bff; /* Change the color on hover as desired */
 }
 
-.hero-section {
+.banner{
     display: flex;
     background-color: #ee8d25; /* Light orange background color */
     padding: 0px;
